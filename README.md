@@ -1,5 +1,3 @@
-# Python-
-My Python Codes
 # Hello , Welcome to my yearly compound profit calculator
 # Enjoy it
 
